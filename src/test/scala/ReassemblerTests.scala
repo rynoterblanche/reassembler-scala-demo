@@ -2,7 +2,7 @@ package fragment.submissions
 
 import org.scalatest.FunSuite
 
-class TestShopWithOffers extends FunSuite {
+class ReassemblerTests extends FunSuite {
 
 //  test("reassemble small line of text") {
 //    val fragments = "O draconia;conian devil! Oh la;h lame sa;saint!"
